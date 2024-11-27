@@ -1,0 +1,15 @@
+.container 
+    { display: flex;
+    
+    }
+
+ .container .container--1 
+    { max-width: 544px;}
+.card 
+    { display: flex; 
+      flex-direction: column;
+         }
+
+.card--1
+    { max-width: 544px;
+      background-color: rgb(168, 92, 82);}
