@@ -7,14 +7,12 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
 
   <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="./assets/css/reset.css">
   
   <title>Frontend Mentor | Bento grid</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+    </style>
 </head>
 <body>
   <main>
@@ -40,7 +38,7 @@
    </section> 
   
    <section class="container container--2 ">  
-        <div>
+        <div  class="card card--4" >
           <h2 class="card__header card__hearder--4"> Schedule to social media. <h2>
           <img class="card__image card__image--4"  src="./assets/images/illustration-schedule-posts.webp" alt="">
           <p class="card__text--4" > Optimize post timings to publish content at the perfect time for your audience. </p>
@@ -50,27 +48,26 @@
 
   <section class="container  container--3"> 
     
-    <div class="container__4 container--purple2"> 
-        <img src="./assets/images/illustration-grow-followers.webp" alt="">
-        <p> Grow followers with non-stop content. </p>
-  
+    <div class="card card--5"> 
+        <img   class="card__image card__image--5" src="./assets/images/illustration-grow-followers.webp" alt="">
+        <h2 class= "card__header card__hearder--5">  Grow followers with non-stop content. </h2>
     </div>
-        <div class="container__5 container--white2">
-        <p> >56% faster audience growth </p>
-        <img src="./assets/images/illustration-audience-growth.webp" alt="">
+        <div class="card card--6">
+        <h2 class="card__header card__hearder--6"> >56% faster audience growth  </h2>
+        <img class="card__image card__image--6" src="./assets/images/illustration-audience-growth.webp" alt="">
     </div>
   
   </section>
 
   <section class="container container--4" > 
-        <div class="container__6 container--yellow2">
-           <p> Create and schedule content quicker.</p>
-           <img src="./assets/images/illustration-create-post.webp" alt="">
+        <div class="card card--7">
+        <h2  class="card__header card__hearder--7 ">Create and schedule content quicker. </h2>
+        <img  class=" card__image card__image--7" src=./assets/images/illustration-create-post.webp alt="">
         </div>
   
-  <div class="container__7 container yellow3 ">
-       <p> Write your content using AI. </p>
-       <img src="./assets/images/illustration-ai-content.webp" alt="">
+  <div class=" card card--8 ">
+       <h2 class=" card__header card__hearder--8 " > Write your content using AI. </h2>
+       <img class="card__image card__image--8 " src="./assets/images/illustration-ai-content.webp" alt="">
    </div>
   </section>
 
