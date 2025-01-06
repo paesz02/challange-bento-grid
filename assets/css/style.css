@@ -4,7 +4,7 @@
     }
 
  .container .container--1 
-    { max-width: 544px;}
+    { width: 600px;}
 .card 
     { display: flex; 
       flex-direction: column;
@@ -12,4 +12,11 @@
 
 .card--1
     { max-width: 544px;
+      max-height: 324px;
       background-color: rgb(168, 92, 82);}
+
+.card__header
+    { font-family: "DM Sans", serif;
+      font-size: 62px ;
+      font-weight:80% ;
+       }   
