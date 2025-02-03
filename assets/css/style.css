@@ -159,6 +159,38 @@
               {margin: 32px 0px 32px 0px;}
 
 
+.card.card--5
+              {width: 343px;
+               height: 344.22px;
+               background-color:#7551DC;
+               color: #FFFFFF;}
+
+
+.card__header.card__hearder--5
+              {font-family: "Dm Sans";
+                font-weight: 500;
+                font-size: 32px;
+                line-height: 28px;
+                letter-spacing: -1.92px;
+                text-align: center;
+                width: 257px;  
+                margin: 0 auto;
+                
+      
+               }
+    
+.card__image.card__image--5
+               {width: 227.68px;
+                height: 200.22px;
+                margin: 0 auto;
+                box-sizing: content-box;
+                padding-top: 24px ;
+                padding-bottom: 40px ;
+               } 
+
+
+
+
 
 
 
