@@ -9,6 +9,8 @@
      
     }
 
+* {font-family: "Dm Sans";}
+
  .container--1 
     { width: 100%;
       align-items: center;
@@ -29,7 +31,7 @@
       }
 
 .card__header.card__header--1
-    { font-family: "DM Sans", serif;
+    { 
       font-size: 46px ;
       font-weight:80% ;
       line-height: 42px;
@@ -53,7 +55,7 @@
          margin-bottom: 8px; }
 
 .card__text.card__text--1
-        { font-family: "Dm Sans" ;
+        { 
           font-size: 18px;
           margin: 0 auto;}
 
@@ -81,7 +83,6 @@
 .card__header.card__hearder--2
         { width: 311px;
           height: 126px;
-          font-family:"Dm Sans" ;
           font-size: 42px;
           line-height: 42px;
           font-weight: 500;
@@ -100,7 +101,7 @@
 
 
 .card__header.card__hearder--3
-          {font-family: "Dm Sans";
+          {
             font-weight: 500;
             line-height: 26px;
             width: 311px;
@@ -127,7 +128,7 @@
  
  
  .card__header.card__hearder--4
-           {font-family: "Dm Sans";
+           {
              font-weight: 500;
              line-height: 24px;
              letter-spacing:-1.04px ;
@@ -146,7 +147,7 @@
             } 
             
 .card__text--4
-            { font-family: "Dm sans";
+            { 
               font-size: 18px ;
               font-weight: 400 ;
               width: 279px;
@@ -167,7 +168,7 @@
 
 
 .card__header.card__hearder--5
-              {font-family: "Dm Sans";
+              {
                 font-weight: 500;
                 font-size: 32px;
                 line-height: 28px;
@@ -188,6 +189,30 @@
                 padding-bottom: 40px ;
                } 
 
+
+.card.card--6
+               { width: 343px;
+                height: 215.58px;
+               padding-left: 24px;}
+
+
+.card__header.card__hearder--6
+                {
+                 font-size: 46px ;
+                 line-height: 42px;
+                 font-weight: 500;
+                 margin: 24px 0px 15px 0px;
+                }
+
+.card__text.card__text--6
+                {  font-size: 18px ;
+                   }
+
+.card__image.card__image--6
+                {width: 178.93px;
+                 height: 66.58px;
+                 margin: 24px 0px 24px 0px; }
+ 
 
 
 
