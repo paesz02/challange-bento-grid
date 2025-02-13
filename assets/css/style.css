@@ -238,8 +238,28 @@
                   height: 90.35px;
                  }
 
+.card.card--8
+                 { width: 348px;
+                  height: 350.5px;
+                  background-color: #FFCC6A;
+                  padding-left: 24px;
+                  }
 
-          
+.card__header.card__hearder--8
+                 
+                  {
+                     font-size: 32px ;
+                     line-height: 28px;
+                     font-weight: 500;
+                     margin: 24px 0px 24px 0px;
+                    }  
+                    
+                    
+.card__image.card__image--8
+                    
+                    {width: 219.95px;
+                     height: 222.5px;
+                    }
  
  
 
