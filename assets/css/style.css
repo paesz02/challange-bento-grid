@@ -212,6 +212,35 @@
                 {width: 178.93px;
                  height: 66.58px;
                  margin: 24px 0px 24px 0px; }
+
+.card.card--7
+                 { width: 348px;
+                  height: 234.35px;
+                  background-color: #F9EEE2;
+                  padding-left: 32px;
+                  margin-top: 32px;}
+
+.card__header.card__hearder--7
+                 
+               {
+                  font-size: 32px ;
+                  line-height: 28px;
+                  font-weight: 500;
+                  margin: 32px 0px 24px 0px;
+                 }
+
+.card__header--different-color-2
+
+                { color: #7551DC ;}
+
+.card__image.card__image--7
+                 {width: 190.47px;
+                  height: 90.35px;
+                 }
+
+
+          
+ 
  
 
 
