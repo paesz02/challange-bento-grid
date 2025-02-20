@@ -33,20 +33,19 @@
 .card__header.card__header--1
     { 
       font-size: 46px ;
-      font-weight:80% ;
+      font-weight:500;
       line-height: 42px;
       text-shadow: 0px 4px 4px rgb(0, 0, 0, 0.25);
+      width: 279px;
+      height: 126px;
+      letter-spacing:-1.84px ;
+      text-align: center;
+      margin: 0 auto;
+      margin-top: 40px;
+      margin-bottom: 24px;
       
        }   
 
-.card__header.card__header--1
-     { width: 279px;
-       height: 126px;
-       padding: 0px auto;
-       text-align: center;
-       margin: 0 auto;
-       margin-top: 40px;
-       margin-bottom: 24px;}
 
 .card__image.card__image--1
        { width: 192px;
@@ -72,7 +71,7 @@
 .card__image--2
         { width: 317px; 
           height: 66.5px ;
-          margin: 16px auto ;
+          margin: 24px auto ;
           
          }
 
@@ -260,8 +259,12 @@
                     {width: 219.95px;
                      height: 222.5px;
                     }
- 
- 
+ .attribution  { width: 280px;
+                text-align: center ;
+                margin: 20px auto;
+                
+               }
+
 
 
 
