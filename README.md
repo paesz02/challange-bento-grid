@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> ff452502c121ab7bc55defd5822b2620d6e69101
 # Frontend Mentor - Bento grid
 
 ![Design preview for the Bento grid coding challenge](./preview.jpg)
@@ -95,3 +99,5 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+
