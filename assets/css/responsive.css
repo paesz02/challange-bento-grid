@@ -70,3 +70,28 @@
                 }
     
     }
+
+.container.container--2
+                {margin: 32px auto;}
+  
+    .card.card--4
+                {width: 688px;
+                 height: 496.96px;
+                }
+
+  .card__header.card__hearder--4
+                { 
+                  line-height: 26px;
+                  letter-spacing:-1.68px ;
+                  font-size: 28px;
+                  text-align: center;
+                  margin: 32px 0px 24px 0px; }
+
+
+.card__image.card__image--4
+                  {width: 357.3px;
+                   height: 318.82px; }
+
+
+.card__text--4
+                  { width: 359px;}
