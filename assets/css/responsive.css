@@ -95,3 +95,40 @@
 
 .card__text--4
                   { width: 359px;}
+
+
+.card.card--5 
+                  { width: 688px;
+                    height: 246px;
+                    gap: 40px;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: row;
+                                   
+                  }
+
+.card__image.card__image--5, .card__header.card__hearder--5
+                  { padding: 0px ;
+                    margin: 0px  ;
+                    
+                   }
+
+.card__header.card__hearder--5
+                  {width: 257px;
+                   height: 90px;
+                   font-size: 36px;
+                   line-height: 30px;
+                   letter-spacing:-2.16px;
+                   text-align: left;
+                  }
+
+.card.card--6
+                  {width: 688px;
+                   height: 131px;
+                   flex-direction: row;
+                   justify-content: space-between;
+                   align-items: center;
+                   padding: 0px 24px 0px 24px;}
+
+.card__header.card__hearder--6
+                    { font-size: 54px;}
